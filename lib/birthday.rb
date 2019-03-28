@@ -5,7 +5,10 @@
 # }
 
 def happy_birthday(birthday_kids)
+ hash = {}
  
+ 
+ Happy Birthday Timmy! You are now 9 years old!
 end
 
 
